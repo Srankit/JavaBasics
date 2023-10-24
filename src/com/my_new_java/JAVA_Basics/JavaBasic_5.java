@@ -1,6 +1,6 @@
 package com.my_new_java.JAVA_Basics;
 
-public class JavaBasic_1_1 {
+public class JavaBasic_5 {
 
     /* Define variables for different Data Types int, Boolean, char, float, double and print on the
         Console  */
