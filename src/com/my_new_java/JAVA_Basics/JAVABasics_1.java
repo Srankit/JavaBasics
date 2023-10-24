@@ -19,8 +19,4 @@ public class JAVABasics_1 {
 }
 
 /*1. How to create a class, object, method and its signature
-        2.
-        3. Write a program for a Single line comment, multi-line and documentation comments
-        4.
-        5.
-        6.*/
+       */
