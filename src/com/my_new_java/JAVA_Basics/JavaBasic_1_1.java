@@ -1,6 +1,9 @@
 package com.my_new_java.JAVA_Basics;
 
 public class JavaBasic_1_1 {
+
+    /* Define variables for different Data Types int, Boolean, char, float, double and print on the
+        Console  */
     public static void main(String[] args) {
         int a =10;
         boolean b = true;
